@@ -15,7 +15,7 @@ This repo contains all resources shared during Part 2: Understanding the relevan
 
 [Dataset](https://www.kaggle.com/rmisra/news-category-dataset) from Kaggle used for tutorial
 
-[Elastic Austin Chapter](https://community.elastic.co/austin/) Want to attend live workshops? Join the Elastic Vancouver Chapter to get the deets!
+[Part 3 Workshop Event Details](https://community.elastic.co/events/details/elastic-austin-presents-part-3-running-full-text-queries-and-combined-queries-with-elasticsearch-and-kibana/#/) Want to attend the part 3 of the workshop on Wednesday, February 24th at 12 PM CST? Click on the link to RSVP!
 
 ## Search for information
 There are two main ways to search in Elasticsearch:
