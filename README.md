@@ -11,7 +11,7 @@ This repo contains all resources shared during Part 2: Understanding the relevan
 
 [Instructions](https://dev.to/elastic/downloading-elasticsearch-and-kibana-macos-linux-and-windows-1mmo) for downloading Elasticsearch and Kibana
 
-[Presentation]()
+[Presentation](https://github.com/LisaHJung/Vancouver-Part-2-Understanding-the-relevance-of-your-search-with-Elasticsearch-and-Kibana/blob/main/%5BVancouver%5D%20Part%202_%20Understanding%20the%20relevance%20of%20your%20search%20with%20Elasticsearch%20and%20Kibana%20.pdf)
 
 [Dataset](https://www.kaggle.com/rmisra/news-category-dataset) from Kaggle used for tutorial
 
