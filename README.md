@@ -14,6 +14,8 @@ By the end of this workshop, you will:
 
 [Free Elastic Cloud Trial](https://ela.st/elastic-beginners)
 
+[Instructions](https://dev.to/lisahjung/beginner-s-guide-to-setting-up-elasticsearch-and-kibana-with-elastic-cloud-1joh) on how to access Elasticsearch and Kibana on Elastic Cloud
+
 [Instructions](https://dev.to/elastic/downloading-elasticsearch-and-kibana-macos-linux-and-windows-1mmo) for downloading Elasticsearch and Kibana
 
 [Presentation](https://github.com/LisaHJung/Vancouver-Part-2-Understanding-the-relevance-of-your-search-with-Elasticsearch-and-Kibana/blob/main/%5BVancouver%5D%20Part%202_%20Understanding%20the%20relevance%20of%20your%20search%20with%20Elasticsearch%20and%20Kibana%20.pdf)
